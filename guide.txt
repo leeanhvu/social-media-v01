@@ -1,0 +1,2 @@
+I/INSTALL
+- npm install express mongoose dotenv helmet morgan nodemon
